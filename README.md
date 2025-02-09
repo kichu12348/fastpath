@@ -29,7 +29,7 @@ app.listen(3000, () => {
 ```bash
 npm install fastpath
 ```
-(Just kidding, we're not on npm yet, but we're working on it! 😉)
+(Just kidding, we're not on npm yet, but im working on it! 😉 heh)
 
 ## 🎮 API Examples
 
@@ -58,14 +58,14 @@ app.error((err, req, res) => {
 ```
 
 ## ⚠️ Warning
-This framework is so fast, it might cause temporal displacement. We're not responsible for any accidental time travel.
+This framework is so fast, it might cause temporal displacement.I ain't gonna be responsible for any accidental time travel 💀
 
 ## 📜 License
-MIT - Because sharing is caring! ❤️
+MIT - cuz sharing is caring! ❤️
 
 ## 🤓 Contributing
 Found a bug? Want to add a feature? Know how to make it even faster (is that even possible)? 
 PRs are welcome! Just make sure your code runs faster than a caffeinated cheetah! 
 
 ---
-Made with ❤️ and probably too much ☕
+Made wiz ❤️ by kichu
