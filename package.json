@@ -1,0 +1,21 @@
+{
+  "name": "fastpath",
+  "version": "1.0.0",
+  "description": "A lightweight and high-performance Node.js web framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node test.js"
+  },
+  "keywords": [
+    "framework",
+    "web",
+    "http",
+    "router",
+    "fast",
+    "lightweight",
+    "nodejs"
+  ],
+  "author": "Kichu",
+  "license": "MIT"
+}
